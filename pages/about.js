@@ -10,6 +10,10 @@ function about() {
       Bienvenidos a compras de cualquier necesidad que tengas
       te garantizamos que quedaras sastifecho en Dumas Comercio.  .
       </p>
+
+      <p className="text-black-300">
+      Espero que sea de tu agrado esta sitio de compras  .
+      </p>
       
       
       <h1 className="font-bold text-2xl my-4">Contactar</h1>
