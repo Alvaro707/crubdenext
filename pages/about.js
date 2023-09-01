@@ -21,7 +21,7 @@ function about() {
       <p className="text-black-300">
        Contactar a Alvaro Dumas.
        Gmail: daumasalvaro707@gmail.com.
-       Hotmail: alvaro.dumas120@est.unanleon.edu.ni.
+      
        <br></br>
        Celular: +505 5725 - 8837.
       </p>
