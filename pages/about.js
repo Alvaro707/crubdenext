@@ -24,6 +24,7 @@ function about() {
        Correo Institucional: alvaro.dumas120@est.unanleon.edu.ni.
       
       Colaboracion con Flavios Chevez
+      Contactar: 2314 -1010.
 
 
        <br></br>
