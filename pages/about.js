@@ -23,6 +23,9 @@ function about() {
        Gmail: daumasalvaro707@gmail.com.
        Correo Institucional: alvaro.dumas120@est.unanleon.edu.ni.
       
+      Colaboracion con Flavios Chevez
+
+
        <br></br>
        Celular: +505 5725 - 8837.
       </p>
